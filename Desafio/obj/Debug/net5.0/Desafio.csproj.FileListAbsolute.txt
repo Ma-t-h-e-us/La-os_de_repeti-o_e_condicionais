@@ -1,0 +1,16 @@
+C:\Users\T-Gamer\Desktop\SENAI_ATIV\Exercícios_repetição_e_switch\Desafio\bin\Debug\net5.0\Desafio.exe
+C:\Users\T-Gamer\Desktop\SENAI_ATIV\Exercícios_repetição_e_switch\Desafio\bin\Debug\net5.0\Desafio.deps.json
+C:\Users\T-Gamer\Desktop\SENAI_ATIV\Exercícios_repetição_e_switch\Desafio\bin\Debug\net5.0\Desafio.runtimeconfig.json
+C:\Users\T-Gamer\Desktop\SENAI_ATIV\Exercícios_repetição_e_switch\Desafio\bin\Debug\net5.0\Desafio.runtimeconfig.dev.json
+C:\Users\T-Gamer\Desktop\SENAI_ATIV\Exercícios_repetição_e_switch\Desafio\bin\Debug\net5.0\Desafio.dll
+C:\Users\T-Gamer\Desktop\SENAI_ATIV\Exercícios_repetição_e_switch\Desafio\bin\Debug\net5.0\ref\Desafio.dll
+C:\Users\T-Gamer\Desktop\SENAI_ATIV\Exercícios_repetição_e_switch\Desafio\bin\Debug\net5.0\Desafio.pdb
+C:\Users\T-Gamer\Desktop\SENAI_ATIV\Exercícios_repetição_e_switch\Desafio\obj\Debug\net5.0\Desafio.csprojAssemblyReference.cache
+C:\Users\T-Gamer\Desktop\SENAI_ATIV\Exercícios_repetição_e_switch\Desafio\obj\Debug\net5.0\Desafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-Gamer\Desktop\SENAI_ATIV\Exercícios_repetição_e_switch\Desafio\obj\Debug\net5.0\Desafio.AssemblyInfoInputs.cache
+C:\Users\T-Gamer\Desktop\SENAI_ATIV\Exercícios_repetição_e_switch\Desafio\obj\Debug\net5.0\Desafio.AssemblyInfo.cs
+C:\Users\T-Gamer\Desktop\SENAI_ATIV\Exercícios_repetição_e_switch\Desafio\obj\Debug\net5.0\Desafio.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\Desktop\SENAI_ATIV\Exercícios_repetição_e_switch\Desafio\obj\Debug\net5.0\Desafio.dll
+C:\Users\T-Gamer\Desktop\SENAI_ATIV\Exercícios_repetição_e_switch\Desafio\obj\Debug\net5.0\ref\Desafio.dll
+C:\Users\T-Gamer\Desktop\SENAI_ATIV\Exercícios_repetição_e_switch\Desafio\obj\Debug\net5.0\Desafio.pdb
+C:\Users\T-Gamer\Desktop\SENAI_ATIV\Exercícios_repetição_e_switch\Desafio\obj\Debug\net5.0\Desafio.genruntimeconfig.cache
