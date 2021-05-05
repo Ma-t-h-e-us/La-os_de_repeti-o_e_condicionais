@@ -9,9 +9,12 @@ namespace Desafio
             int ultimoElemento = 1;
             int penultimoElemento = 0;
 
+            Console.WriteLine(penultimoElemento);
+            Console.WriteLine(ultimoElemento);
+            
             bool sequencial = true;
             while (sequencial == true)
-            {
+            {   
                 int elemento = ultimoElemento + penultimoElemento;
                 Console.WriteLine(elemento);
                 
